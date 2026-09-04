@@ -1,4 +1,3 @@
-# IT-Help-Desk-Ticketing-System
 # 🎫 IT Help Desk Ticketing System
 
 A web-based IT Help Desk Ticketing System built with Python, Flask, and SQLite. This application allows users to create, track, manage, and resolve IT support tickets efficiently while providing administrators with visibility into ticket status and reporting.
